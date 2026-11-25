@@ -66,7 +66,7 @@
 
 Rose Bounty provides independent verification for autonomous transactions, offering a public API that evaluates submitted tasks against agreed acceptance criteria and returns a machine‑readable receipt with a deterministic recommendation. The service records agent identity where available, preserves evidence, and issues immutable receipts without moving funds, enabling secure, transparent verification for payment systems and other automated workflows.
 
-**Areas:** Company · Verification · API · Autonomous · Payments · Platform
+**Areas:** Company · Verification · Autonomous · Payments · Platform
 
 ## Rose Bounty on APIs.io
 
@@ -84,8 +84,8 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agttglobal Org Domain Security](https://apis.io/security/agttglobal-org/agttglobal-org-domain-security/)
-- [Agttglobal Org Vulnerability Disclosure](https://apis.io/security/agttglobal-org/agttglobal-org-vulnerability-disclosure/)
+- [Rose Bounty Domain Security](https://apis.io/security/agttglobal-org/agttglobal-org-domain-security/)
+- [Rose Bounty Vulnerability Disclosure](https://apis.io/security/agttglobal-org/agttglobal-org-vulnerability-disclosure/)
 
 ## Where to find this API
 
@@ -100,18 +100,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 20.5** — emerging · rubric 0.25.0 · scored 2026-11-01
+**Kin Score 21.3** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 62.5 |
+| Discoverability | 80.4 |
 | Contract quality | 0.0 |
-| Contract governance | 30.0 |
-| Operational transparency | 10.5 |
+| Contract governance | 8.3 |
+| Operational transparency | 9.5 |
 | Developer ergonomics | 23.1 |
-| Access clarity | 21.1 |
+| Access clarity | 29.8 |
 
-**Agent readiness 10.7** — agent-aware
+**Agent readiness 12.1** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -127,7 +127,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Event Surface Described | — |
 | Agent Skills | unknown |
 | Well Known Catalog | yes |
-| Consent Identity | — |
+| Consent Identity | signal |
 | Agent Card | flavored (partial credit) |
 | Dry Run Mode | — |
 | Delegated Identity | — |
@@ -136,6 +136,10 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | yes |
 
 **Regulatory alignment 22.3** — Payments
 
